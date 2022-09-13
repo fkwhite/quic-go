@@ -2,7 +2,9 @@ module github.com/fkwhite/quic-go
 
 go 1.19
 
+replace github.com/lucas-clemente/quic-go => github.com/fkwhite/quic-go
 require (
+
 	github.com/francoispqt/gojay v1.2.13
 	github.com/golang/mock v1.6.0
 	github.com/lucas-clemente/quic-go v0.29.0
