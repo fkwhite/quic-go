@@ -30,4 +30,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
 
-replace github.com/lucas-clemente/quic-go => github.com/fkwhite/quic-go
+replace github.com/lucas-clemente/quic-go => github.com/fkwhite/quic-go v0.0.0-20220913115334-e64d932586e1
